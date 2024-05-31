@@ -1,0 +1,11 @@
+.react-multiple-carousel__arrow--right {
+  display: none;
+}.react-multiple-carousel__arrow--left {
+  display: none;
+}
+.slider{
+  margin-right: -10px;
+}
+.slider .react-multi-carousel-item{
+  max-width:16rem;
+}

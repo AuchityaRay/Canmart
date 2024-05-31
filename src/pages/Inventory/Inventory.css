@@ -1,0 +1,10 @@
+.width-calc{
+    width: calc(100% / 4);
+} 
+
+@media (max-width: 767px) {
+    .lg\:block,
+    .md\:block {
+      display: none;
+    }
+  }
